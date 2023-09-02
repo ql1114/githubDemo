@@ -1,0 +1,26 @@
+[33mtag v1.1.0[m
+Tagger: coderrepeat <2732324486@qq.com>
+Date:   Sat Sep 2 10:22:11 2023 +0800
+
+utils/math.js
+
+[33mcommit faa51dad801869bfe04ca72c60c3ae2e24bbc86c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: coderrepeat <2732324486@qq.com>
+Date:   Sat Sep 2 09:59:48 2023 +0800
+
+    新增utils/math.js
+
+[1mdiff --git a/utils/math.js b/utils/math.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6227bb5[m
+[1m--- /dev/null[m
+[1m+++ b/utils/math.js[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32mexport function sum(num1, num2) {[m
+[32m+[m[32m    return num1 + num2[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32mexport function mul(num1, num2) {[m
+[32m+[m[32m    return num1 * num2[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
